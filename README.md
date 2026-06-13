@@ -12,14 +12,6 @@
 
 🎓 Sixth Semester Information Systems Student
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&speed=25&pause=3000&color=58A6FF&center=true&vCenter=true&width=850&lines=Passionate+about+Application+Development;Website+Development+Enthusiast;System+Analysis+and+Database+Design;Always+Learning+New+Technologies" />
-
-</div>
-
-<br>
-
 📚 Experienced in understanding the software development lifecycle, from requirements analysis to implementation
 
 🤝 Enjoy collaborating on projects, learning emerging technologies, and developing effective digital solutions
