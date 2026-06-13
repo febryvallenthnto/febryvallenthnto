@@ -9,24 +9,7 @@
 <br>
 
 ## 🚀 About Me
-
-🎓 Sixth Semester Information Systems Student
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&speed=25&pause=3000&color=58A6FF&center=true&vCenter=true&width=850&lines=Passionate+about+Application+Development;Website+Development+Enthusiast;System+Analysis+and+Database+Design;Always+Learning+New+Technologies" alt="Typing Animation" />
-
-</div>
-
-<br>
-
-📚 Experienced in understanding the software development lifecycle, from requirements analysis to implementation
-
-🤝 Enjoy collaborating on projects, learning emerging technologies, and developing effective digital solutions
-
-🌱 Currently learning Full-Stack Development and Modern Web Technologies
-
-<br>
+I am an Information Systems student with interests in application development, website development, systems analysis, and database design. I understand the systems development process, from requirements analysis and design to solution implementation. I am passionate about learning new technologies, able to work collaboratively, and committed to creating effective, efficient, and user-oriented digital solutions.
 
 ## 🌐 Connect With Me
 
