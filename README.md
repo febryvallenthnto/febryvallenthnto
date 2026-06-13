@@ -1,36 +1,98 @@
-Hello there, I'm Febry Vallentihanto! 👋
+# Hi 👋, I'm Febry Vallentihanto
 
-An enthusiastic Information Systems student dedicated to bridging the gap between business requirements and technical solutions.
+<div align="center">
 
-🎓 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Web+Developer;System+Analyst;Database+Designer;Always+Learning+New+Technologies" />
 
-I am a sixth-semester Information Systems student with a profound interest in software engineering, systems analysis, and relational database design. My academic and practical background has equipped me with a comprehensive understanding of the System Development Life Cycle (SDLC)—from initial requirements elicitation to system implementation and evaluation.
+</div>
 
-🔍 Core Focus: Application development, website architecture, and scalable database design.
+---
 
-⚙️ Work Approach: I approach system design with empirical and logical methodologies, ensuring that every digital solution I develop effectively addresses specific business problems.
+## 🚀 About Me
 
-🌱 Current Journey: Actively learning modern development frameworks and continuously refining my skills in collaborative, cross-functional environments.
+🎓 Sixth Semester Information Systems Student
 
-💻 Tech Stack & Tools
+💻 Passionate about Application Development, Web Development, System Analysis, and Database Design
 
-To build robust and scalable systems, I utilize a variety of modern technologies and methodologies, categorized as follows:
+📚 Experienced in understanding the software development lifecycle, from requirements analysis to implementation
 
-Frontend Development: 
+🤝 Enjoy collaborating on projects, learning new technologies, and building effective digital solutions
 
+🌱 Currently improving my skills in Full-Stack Development and Modern Web Technologies
 
+---
 
+## 🌐 Connect With Me
 
-Backend & Database: 
+<div align="center">
 
+<a href="https://www.facebook.com/febryvallenthnto">
+<img src="https://skillicons.dev/icons?i=facebook" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/febryvallentihanto_">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/febryvallentihanto">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:vallenthnto14@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 
+</div>
 
-Design & Prototyping: 
+---
 
+## 💻 Tech Stack
 
-Deployment & Hosting: 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,figma,vercel,netlify" />
 
-📊 GitHub Analytics
+<br><br>
 
-🌐 Let's Connect!
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=febryvallenthnto&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=febryvallenthnto&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryvallenthnto&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=febryvallenthnto&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building Digital Solutions Through Technology
+
+<img src="https://komarev.com/ghpvc/?username=febryvallenthnto&label=Profile+Views&color=3b82f6&style=for-the-badge"/>
+
+</div>
