@@ -81,8 +81,6 @@ I am an Information Systems student with interests in application development, w
 
 <div align="center">
 
-### ✨ Building Digital Solutions Through Technology
-
 <img src="https://komarev.com/ghpvc/?username=febryvallenthnto&label=Profile+Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
