@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a sixth-semester Information Systems student with interests in application development, website development, systems analysis, and database design. I understand the system design process, from requirements analysis to implementation. I enjoy learning new technologies, working collaboratively, and developing effective digital solutions to solve various business problems.
+I am a sixth semester Information Systems student with interests in application development, website development, systems analysis, and database design. I understand the system design process, from requirements analysis to implementation. I enjoy learning new technologies, working collaboratively, and developing effective digital solutions to solve various business problems.
 
 
 ## 🌐 Socials:
