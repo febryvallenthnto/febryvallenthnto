@@ -6,8 +6,6 @@
 
 </div>
 
-<br>
-
 ## 🚀 About Me
 I am an Information Systems student with interests in application development, website development, systems analysis, and database design. I understand the systems development process, from requirements analysis and design to solution implementation. I am passionate about learning new technologies, able to work collaboratively, and committed to creating effective, efficient, and user-oriented digital solutions.
 
