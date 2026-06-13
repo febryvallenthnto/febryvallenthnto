@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Febry Vallentihanto</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&speed=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=600&lines=INFORMATION+SYSTEM+STUDENTS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&speed=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=600&lines=INFORMATION+SYSTEM+STUDENT" alt="Typing SVG" />
 
 </div>
 
