@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/febryvallenthanto" target="_blank">
+<a href="https://www.linkedin.com/in/febryvallentihanto" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
@@ -87,11 +87,11 @@
 
 <br>
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/febryvallenthnto/febryvallenthnto/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=febryvallenthnto&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
