@@ -1,15 +1,103 @@
-# 💫 About Me:
-I am a sixth semester Information Systems student with interests in application development, website development, systems analysis, and database design. I understand the system design process, from requirements analysis to implementation. I enjoy learning new technologies, working collaboratively, and developing effective digital solutions to solve various business problems.
+# 👋 Hello, I'm Febry Vallentihanto
 
+### 🎓 Information Systems Student | Web Developer | System Analyst
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/febryvallentihnto/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/febryvallentihanto_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/febryvallentihanto/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vallenthnto14@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Web+Developer;System+Analyst;Database+Designer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=febryvallenthnto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=febryvallenthnto&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=febryvallenthnto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I am a sixth-semester Information Systems student passionate about web development, application development, systems analysis, and database design. I enjoy transforming business requirements into efficient digital solutions through structured analysis, modern design, and practical implementation.
+
+* 🌱 Currently learning modern web technologies
+* 💻 Interested in Full-Stack Web Development
+* 🗄️ Passionate about Database Design & System Analysis
+* 🤝 Enjoy collaborative projects and problem-solving
+* 📚 Always eager to learn and improve
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/febryvallentihanto/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://www.instagram.com/febryvallentihanto_/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://www.facebook.com/febryvallentihnto/" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+<a href="mailto:vallenthnto14@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,bootstrap,figma,git,github,vscode,vercel,netlify" />
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=febryvallenthnto&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryvallenthnto&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=febryvallenthnto&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=febryvallenthnto&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🚗 Car Service Booking System
+
+A web-based vehicle service booking application featuring online reservations, service tracking, and customer management.
+
+### 🏪 UMKM Operational Management System
+
+A digital solution for managing products, transactions, inventory, and reports for small businesses.
+
+### 🌐 Personal Portfolio Website
+
+A modern responsive portfolio website showcasing projects, skills, certificates, and achievements.
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=febryvallenthnto&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 💡 Quote
+
+> "Technology is best when it brings people together and solves real-world problems."
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=febryvallenthnto&label=Profile+Views&color=4F8CFF&style=for-the-badge" />
+</p>
