@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Febry Vallentihanto
+# Hi Three, I'm Febry Vallentihanto
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&speed=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=600&lines=INFORMATION+SYSTEMS+STUDENT" alt="Typing SVG" />
 
@@ -8,13 +8,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am an Information Systems student with interests in application development, website development, systems analysis, and database design. I understand the systems development process, from requirements analysis and design to solution implementation. I am passionate about learning new technologies, able to work collaboratively, and committed to creating effective, efficient, and user-oriented digital solutions.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I am an Information Systems student with interests in application development, w
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@ I am an Information Systems student with interests in application development, w
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -77,7 +77,7 @@ I am an Information Systems student with interests in application development, w
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -91,15 +91,7 @@ I am an Information Systems student with interests in application development, w
 
 ---
 
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=febryvallenthnto&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge" />
-
-</div>
-
-<div align="center">
+## Profile Views
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=febryvallenthnto&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge" />
