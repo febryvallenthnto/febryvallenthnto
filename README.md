@@ -2,41 +2,46 @@
 
 # Hi Three, I'm Febry Vallentihanto
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&speed=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=600&lines=INFORMATION+SYSTEMS+STUDENT" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&speed=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=600&lines=INFORMATION+SYSTEMS" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🌐 About Me
+## About Me
 
-I am an Information Systems student with interests in application development, website development, systems analysis, and database design. I enjoy building efficient and user-oriented digital solutions while continuously learning modern technologies.
+I am an Information Systems student with interests in application development, website development, systems analysis, and database design. I understand the systems development process, from requirements analysis and design to solution implementation. I am passionate about learning new technologies, able to work collaboratively, and committed to creating effective, efficient, and user-oriented digital solutions.
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-<a href="https://www.facebook.com/febryvallenthnto">
-<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+<a href="https://www.facebook.com/febryvallenthnto" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/febryvallentihanto_">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<a href="https://www.instagram.com/febryvallentihanto_" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/febryvallenthihanto">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/febryvallenthihanto" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:vallenthnto14@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
 </a>
 
 </div>
 
-## ⚙️ Tech Stack
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -44,44 +49,35 @@ I am an Information Systems student with interests in application development, w
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Canva-3B82F6?style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeIgniter-8B5CF6?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=febryvallenthnto&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=febryvallenthnto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=febryvallenthnto&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=febryvallenthnto&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryvallenthnto&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=febryvallenthnto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
-## 📈 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryvallenthnto&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -95,14 +91,20 @@ I am an Information Systems student with interests in application development, w
 
 ---
 
-## 📌 Profile Stats
+---
+
+## Profile Views
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=febryvallenthnto&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge" />
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/github/followers/febryvallenthnto?label=Followers&style=for-the-badge&color=3B82F6" />
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/github/stars/febryvallenthnto?label=Stars&style=for-the-badge&color=8B5CF6" />
 
 </div>
+
+<br>
