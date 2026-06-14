@@ -99,4 +99,20 @@ I am an Information Systems student with interests in application development, w
 
 </div>
 
----
+<div align="center">
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=febryvallenthnto&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge" />
+
+<br><br>
+
+<!-- Followers & Stars -->
+<img src="https://img.shields.io/github/followers/febryvallenthnto?label=Followers&style=for-the-badge&color=3B82F6" />
+<img src="https://img.shields.io/github/stars/febryvallenthnto?label=Stars&style=for-the-badge&color=8B5CF6" />
+
+<br><br>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=febryvallenthnto&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
