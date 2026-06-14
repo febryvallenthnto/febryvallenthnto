@@ -73,14 +73,8 @@ I am an Information Systems student with interests in application development, w
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=febryvallenthnto&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=febryvallenthnto&label=Profile+Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
-
-</div>
