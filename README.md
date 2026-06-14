@@ -19,24 +19,22 @@ I am an Information Systems student with interests in application development, w
 <div align="center">
 
 <a href="https://www.facebook.com/febryvallenthnto">
-<img src="https://cdn.simpleicons.org/facebook/3B82F6" height="45"/>
+<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
 </a>
 
 <a href="https://www.instagram.com/febryvallentihanto_">
-<img src="https://cdn.simpleicons.org/instagram/8B5CF6" height="45"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/febryvallenthihanto" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/3B82F6" height="45"/>
+<a href="https://www.linkedin.com/in/febryvallenthihanto">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:vallenthnto14@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/8B5CF6" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </div>
-
----
 
 ## ⚙️ Tech Stack
 
@@ -69,11 +67,9 @@ I am an Information Systems student with interests in application development, w
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=febryvallenthnto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=febryvallenthnto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
-
----
 
 ## 📈 Top Languages
 
