@@ -108,9 +108,3 @@ I am an Information Systems student with interests in application development, w
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=febryvallenthnto&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
