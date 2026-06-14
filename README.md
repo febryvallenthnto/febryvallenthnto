@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Febry Vallentihanto
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&speed=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=600&lines=INFORMATION+SYSTEMS+STUDENT;WEB+DEVELOPER;APPLICATION+DEVELOPER;DATABASE+ENTHUSIAST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&speed=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=600&lines=INFORMATION+SYSTEMS+STUDENT" alt="Typing SVG" />
 
 </div>
 
@@ -81,16 +81,6 @@ I am an Information Systems student with interests in application development, w
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=febryvallenthnto&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/febryvallenthnto/febryvallenthnto/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/febryvallenthnto/febryvallenthnto/output/snake.svg">
@@ -110,9 +100,3 @@ I am an Information Systems student with interests in application development, w
 </div>
 
 ---
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile ✨
-
-</div>
