@@ -2,12 +2,13 @@
 
 <h1>Hi 👋, I'm Febry Vallentihanto</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&speed=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=600&lines=INFORMATION+SYSTEM+STUDENT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&speed=40&pause=2500&color=3B82F6&center=true&vCenter=true&width=600&lines=INFORMATION+SYSTEM" alt="Typing SVG" />
 
 </div>
 
 ## 🚀 About Me
 I am an Information Systems student with interests in application development, website development, systems analysis, and database design. I understand the systems development process, from requirements analysis and design to solution implementation. I am passionate about learning new technologies, able to work collaboratively, and committed to creating effective, efficient, and user-oriented digital solutions.
+
 
 ## 🌐 Connect With Me
 
@@ -78,34 +79,20 @@ I am an Information Systems student with interests in application development, w
 
 <br>
 
-## 👀 Profile Views
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=febryvallenthnto&label=Profile+Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
+tambahkan:
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
-</div>
-
-<br>
-
-## 👾 Pacman Contribution Graph
-
-<div align="center">
-
+dan
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-</div>
