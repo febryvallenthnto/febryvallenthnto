@@ -26,7 +26,7 @@ I am an Information Systems student with interests in application development, w
 <img src="https://cdn.simpleicons.org/instagram/8B5CF6" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/febryvallenthihanto">
+<a href="https://www.linkedin.com/in/febryvallenthihanto" target="_blank">
 <img src="https://cdn.simpleicons.org/linkedin/3B82F6" height="45"/>
 </a>
 
@@ -69,7 +69,7 @@ I am an Information Systems student with interests in application development, w
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=febryvallenthnto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=febryvallenthnto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
 
 </div>
 
